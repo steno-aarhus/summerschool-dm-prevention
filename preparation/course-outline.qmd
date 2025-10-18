@@ -1,0 +1,117 @@
+---
+title: "An Interdisciplinary Approach to Diabetes Prevention"
+author:
+  - name: Daniel R. Witte
+    orcid: 0000-0002-0769-2922
+    email: daniel.witte@ph.au.dk
+    affiliations:
+      - name: Aarhus University, Department of Public Health
+      - name: Steno Diabetes Center Aarhus
+  - name: Daniel Borch Ibsen
+    orcid: 
+    email: 
+    affiliations:
+      - name: Aarhus University, Department of Public Health
+      - name: Steno Diabetes Center Aarhus
+  
+format: docx
+---
+
+# Two-Week Summer School Course Curriculum
+
+## Course Overview
+
+This intensive 10-day programme (5 ECTS points) aims to provide students with a comprehensive understanding of diabetes prevention. The course brings together various disciplines, ranging from biomedicine, genetics, physiology and nutrition to (pharmaco)epidemiology, psychology and public health. It will give students an overview of the current state of evidence for diabetes prevention, and teach students to approach the big open questions of diabetes prevention from different points of view.
+
+Students will be taught by global experts in diabetes prevention and will discuss and work with recent research results and data samples. Students will learn through a combination of lectures, discussions, and practical assignments including data analysis, group work, and presentations.
+
+The course will follow the principles of open and reproducible science and education.
+
+## Course responsible:
+
+Prof. Daniel R. Witte and Associate Prof. Daniel Borch Ibsen
+
+## Target Audience:
+
+Graduate students, early-career researchers, and healthcare professionals.
+
+## Prerequisites:
+
+Understanding of basic statistical and epidemiological concepts plus introductory knowledge of human biology (for both: at the undergraduate level of medicine or health science degrees).
+
+The course includes data analysis, visualisation and reporting/presentation tasks, which will be carried out in the R statistical programming language. Students without prior experience in basic statistical analyses and those who have not worked with R before are required to complete the pre-course online introduction to R module.
+
+## Course Format:
+
+On average 6 contact hours per day (3 hours of lectures, 3 hours of group work or other in-person structured learning activities).
+
+Additionally, two online pre-course modules will be offered for self-study by those unfamiliar with the R programming language and/or Github as these two tools will be used for practical work throughout the course.
+
+The course will be assessed as pass/fail based on attendance, active participation in all aspects of the course work and a written and oral (group presentation) report on work carried out during the practical assignments.
+
+## Themes:
+
+Diabetes pathophysiology as applied to prevention, epidemiology of diabetes, risk prediction and prevention models, socio-economic barriers and opportunities for diabetes prevention, global perspectives for diabetes prevention, data analysis and presentation in the R statistical programming language.
+
+## Preliminary programme overview:
+
+### Week 1
+
+-   Day 1: Understanding diabetes at the cellular and molecular level
+-   Day 2: The epidemiological view of the global diabetes epidemic
+-   Day 3+4: Current approaches to diabetes prevention:
+    -   The population approach versus the high-risk approach
+    -   Individual risk prediction and the case of screening for diabetes
+    -   Health behavioural interventions: Diet
+    -   Health behavioural interventions: Exercise
+    -   Pharmacological interventions
+-   Day 5: Understanding the complex psychosocial landscape of diabetes
+
+### Week 2
+
+-   Day 6: Unpacking diabetes heterogeneity from a pathophysiological perspective
+-   Day 7: Diabetes risk across ethnicities and across the world
+-   Day 8: Advanced models for diabetes risk prediction and integration into routine care
+-   Day 9: Bringing it all together: What will global diabetes prevention look like in the next 25 years
+-   Day 10: Presentations of group work assignments (exam requirement) and course wrap up
+
+# Detailed programme outline
+
+## Pre-course tasks:
+
+Install the necessary software and packages:
+
+-   R
+-   R Studio
+-   Make a Github account
+-   Make a Discord account and joint the course Discord server
+
+Depending on your level of prior experience you are encouraged to review / follow these pre-course modules:
+
+-   Getting started with Github
+-   Getting started with R
+
+## Week 1: Foundations and Mechanisms
+
+### Day 1: Foundational Biomedical and Pathophysiological understanding
+
+#### Theme: Understanding diabetes at the cellular and molecular level
+
+##### Morning (9:00-12:00)
+
+-   9:00 - 9:15: Introduction to the course and the Interdisciplinary Framework
+-   9:15 - 10:00: How is glucose regulated?
+    -   Lecturer: Biomedically focused clinician
+    -   Topics: Physiology of glucose regulation, insulin sensitivity, beta cell function, metabolic pathways
+-   10:15 - 11:00 Diabetes: the clinical picture
+    -   Lecturer: Clinician
+    -   Topics: What goes wrong when glucose is too high / too low in the short and long term? Major diabetes types: T1D, T2D, GDM
+-   11:15 - 12:00 The genetic contribution to diabetes: T1D and T2D; genes with clearly known mechanisms and wide sets of genetic associations
+    -   Lecturer: Biomedical Scientist / Genetic Epidemiologist
+    -   Topics: T1DM and the HLA genes, the GWAS era (for T2D and T1D) and the state of our functional understanding of these associations
+
+##### Afternoon (13:00-16:00)
+
+-   13:00 - 13:45: Case Study Discussion: Understanding usual diagnostic steps for a few T1D, T2D and GDM cases.
+-   14:00 - 14:45: Data Analysis Workshop I: Checking R and Github setup. Exercise on data exploration
+-   14:45 - 16:00: Journal Club: Structured discussion of the home reading assignments and introduction of the first assignment.
