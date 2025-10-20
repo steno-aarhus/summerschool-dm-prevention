@@ -53,6 +53,8 @@ The course will be assessed as pass/fail based on attendance, active participati
 
 Diabetes pathophysiology as applied to prevention, epidemiology of diabetes, risk prediction and prevention models, socio-economic barriers and opportunities for diabetes prevention, global perspectives for diabetes prevention, data analysis and presentation in the R statistical programming language.
 
+## Learning objectives:
+
 ## Preliminary programme overview:
 
 ### Week 1
@@ -97,6 +99,10 @@ Depending on your level of prior experience you are encouraged to review / follo
 
 #### Theme: Understanding diabetes at the cellular and molecular level
 
+#### Reading materials:
+- Assigned reading 1
+- Assigned reading 2
+
 ##### Morning (9:00-12:00)
 
 -   9:00 - 9:15: Introduction to the course and the Interdisciplinary Framework
@@ -115,3 +121,63 @@ Depending on your level of prior experience you are encouraged to review / follo
 -   13:00 - 13:45: Case Study Discussion: Understanding usual diagnostic steps for a few T1D, T2D and GDM cases.
 -   14:00 - 14:45: Data Analysis Workshop I: Checking R and Github setup. Exercise on data exploration
 -   14:45 - 16:00: Journal Club: Structured discussion of the home reading assignments and introduction of the first assignment.
+
+### Day 2: Epidemiological Foundations
+
+#### Theme: Understanding the global diabetes epidemic
+#### Reading materials:
+- Assigned reading 1
+- Assigned reading 2
+
+##### Morning (9:00-12:00)
+
+-   9:00 - 9:15: Global trends in diabetes prevalence and incidence. What is driving the trends?
+-   9:15 - 10:00: How are the data behind our global data obtained?
+    -   Lecturer: Diabetes Epidemiologist
+    -   Topics: prevalence, incidence, determinants at population level
+-   10:15 - 11:00
+    -   Lecturer:
+    -   Topics:
+-   11:15 - 12:00
+    -   Lecturer:
+    -   Topics:
+
+##### Afternoon (13:00-16:00)
+
+-   13:00 - 13:45:
+-   14:00 - 14:45:
+-   14:45 - 16:00:
+
+
+
+
+
+
+### Day template: Title
+
+#### Theme:
+#### Reading materials:
+- Assigned reading 1
+- Assigned reading 2
+
+##### Morning (9:00-12:00)
+
+-   9:00 - 9:15:
+-   9:15 - 10:00:
+    -   Lecturer:
+    -   Topics:
+-   10:15 - 11:00
+    -   Lecturer:
+    -   Topics:
+-   11:15 - 12:00
+    -   Lecturer:
+    -   Topics:
+
+##### Afternoon (13:00-16:00)
+
+-   13:00 - 13:45:
+-   14:00 - 14:45:
+-   14:45 - 16:00:
+
+
+
